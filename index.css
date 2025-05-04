@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+:root {
+    --pri: #906038
+    --sec: #dfbb9b
+}
+.bingo{
+    color: black;
+    text-align: center;
+    padding: 30px 20px;
+}
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+    margin-top: -10px;
+}
+.nav-bar nav ul {
+    display: flex;
+    gap: 20px;
+}
+.dig {
+    background-image: url();
+}
