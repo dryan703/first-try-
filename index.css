@@ -255,6 +255,8 @@ ul {
     .hero .cont {
         flex-direction: column;
         align-items: center;
+        flex-wrap: wrap;
+        
     }
     .cont h3 {
         margin-top:-20px;
@@ -277,14 +279,15 @@ ul {
         flex-direction: column;
         align-items: center;
     }
-    }
     .image1 .poff {
         flex-direction: column;
-        margin: 3px;
+        margin: px;
         align-items: center;
+        gap: 20px;
     }
     .image1 .wig {
         width: 295px;
+        
     }
     .dagg {
         flex-direction: column;
