@@ -258,8 +258,9 @@ ul {
         flex-wrap: wrap;
         
     }
-    .cont h3 {
+    .hero .cont h3 {
         margin-top:-20px;
+        font-size: 50px;
     } 
     .contiainer .card1 {
         margin-top: -50px;
@@ -278,6 +279,9 @@ ul {
     .choose-us .container2 {
         flex-direction: column;
         align-items: center;
+    }
+    .choose-us .container2 .card {
+        margin-bottom: 20px;
     }
     .image1 .poff {
         flex-direction: column;
