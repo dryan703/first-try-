@@ -285,16 +285,15 @@ ul {
     }
     .image1 .poff {
         flex-direction: column;
-        margin: px;
         align-items: center;
         gap: 10px;
         flex-wrap: wrap;
     }
     .image1 .wig {
-        width: 300px
+        width: 330px
     }
     .image1 img {
-        width: 300px;
+        width: 330px;
     }
     .lis {
         margin-top: -35px;
