@@ -287,11 +287,17 @@ ul {
         flex-direction: column;
         margin: px;
         align-items: center;
-        gap: 20px;
+        gap: 10px;
+        flex-wrap: wrap;
     }
     .image1 .wig {
-        width: 295px;
-        
+        width: 300px
+    }
+    .image1 img {
+        width: 300px;
+    }
+    .lis {
+        margin-top: -35px;
     }
     .dagg {
         flex-direction: column;
