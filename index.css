@@ -165,7 +165,7 @@ ul {
     justify-content: center;
     gap: 120px;
 }
-.card {
+.container2 .card {
     background-color: white;
     border-radius: 70px;
     width: 60px;
@@ -281,7 +281,7 @@ ul {
         align-items: center;
     }
     .choose-us .container2 .card {
-        margin-bottom: 20px;
+        font-size: 80px;
     }
     .image1 .poff {
         flex-direction: column;
